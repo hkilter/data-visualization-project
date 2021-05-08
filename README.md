@@ -3,6 +3,8 @@ Overview of student projects for MIS 376 at AYBU
 
 **Project Theme:** COVID-19 (or the virus, SARS-CoV-2)
 
+Please see [Project's Wiki page](https://github.com/hkilter/data-visualization-project/wiki) for more information.
+
 ### Instructions
 
 The project is intended as an opportunity to demonstrate what you have learned in class while exploring a data intensive topic of interest to you and, if possible, to a client. While you need not identify a client, you will get more out of the exercise if you do so. The client might be someone you have worked, or currently work, for, a mentor, a friend or a relative. Alternatively, your context might be a social or political issue that you wish to learn more about and to influence. Or, perhaps your investigation might be based on public data you have found that might make a newsworthy story.
@@ -31,5 +33,3 @@ This will require that you:
 By the end of this project, you will learn how you can use data visualization techniques to answer to some analytical questions.
 
 **Note:** If you choose to use a visualization that is more complex - say, something interactive or an infographic - you may describe or depict it by a sketching and verbally describing it rather than creating it in any tool (not more than one of your visualizations may be handled in this manner).
-
-Please see [Wiki](https://github.com/hkilter/data-visualization-project/wiki) for more information.
