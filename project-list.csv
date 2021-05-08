@@ -1,5 +1,4 @@
-﻿#,Surname,First name,GitHub,,Title,Description,Link
-,,,,,,upto 150 characters,
+﻿#,Surname,First name,GitHub account,,Project's Title,,Project's Link
 1,ABO,YUSUF,,,,,
 2,ADBAY,MEHMET ABDULLAH,http://github.com/natukbaytan,,,,
 3,AKARLAR,MAKBULE MERVE,https://github.com/m-merve,,Increased unemployment rate due to Covid-19,"The increasingly difficult living conditions and the increase in unemployment rates drag us, young people, into despair.",https://github.com/m-merve/m-merve
@@ -22,7 +21,7 @@
 20,ERGÜN,ESENGÜL,https://github.com/Esengl,,,,
 21,ESEN,ARİF,https://github.com/esenarif,,,,
 22,ESER,ALEYNA,https://github.com/Aleynaesr,,,,
-23,FATOEV,ALIJON,git@github.com:ALIJON2211/ALijonFaToEv.git,,,,
+23,FATOEV,ALIJON,https://github.com/ALIJON2211,,,,https://github.com/ALIJON2211/ALijonFaToEv
 24,GİRGİN,MEHMET,https://github.com/byMett,,,,
 25,GÖKTAŞ,AYŞEGÜL,https://github.com/aysegulgoktas,,,,https://github.com/agoktas42
 26,GÜRBÜZ,ALİ ENES,,x,,,https://github.com/alienesgurbuz/MIS376_unemploymentrates_covid19
