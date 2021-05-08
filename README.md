@@ -18,7 +18,7 @@ This will require that you:
 8. 	Complete the story as both a presentation and as an article/report/memo. 
 9. 	Also, write up the process you went through to assemble, clean and organize your data and to select your visuals.
 
-Deliverables:
+### Deliverables
 
 **A**	Come to class prepared to provide orally a brief (2 -3 minute) description of the problem you intend to address, the sources of the data, and any problems you foresee (just you talking - no visual aids). Also, by noon on that day put the problem description posting on your GitHub page.  
 **B**	Make an entry on your GitHub page describing the data you will require for your project. Where are you getting it from, what challenges are you facing in preparing it, how much data is it? How many files? (Due by noon on day of class).  
@@ -30,3 +30,4 @@ Deliverables:
 By the end of this project, you will learn how you can use data visualization techniques to answer to some analytical questions.
 
 **Note:** If you choose to use a visualization that is more complex - say, something interactive or an infographic - you may describe or depict it by a sketching and verbally describing it rather than creating it in any tool (not more than one of your visualizations may be handled in this manner).
+
