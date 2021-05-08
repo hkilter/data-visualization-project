@@ -34,7 +34,7 @@ By the end of this project, you will learn how you can use data visualization te
 
 | Title                                | Project Link                                        | Author          |
 | -----------                          | -----------                                         | -------------   |
-|                                      | https://github.com/Mehmet065/COV-D-19-Project       | [Mehmet Altıntaş](https://github.com/Mehmet065) |
+|                                      | https://github.com/Mehmet065/COV-D-19-Project       | [Mehmet Altıntaş](https://github.com/Mehmet065) @Mehmet065|
 | Covid-19's Impact on the Economy     | https://github.com/Funalf?tab=projects              | [Fatma Ünal](https://github.com/Funalf) |
 | Increased unemployment rate due to Covid-19 | https://github.com/m-merve                   | [M. Merve Akarlar](https://github.com/m-merve) |
 
