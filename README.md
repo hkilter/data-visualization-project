@@ -32,11 +32,11 @@ By the end of this project, you will learn how you can use data visualization te
 
 **Note:** If you choose to use a visualization that is more complex - say, something interactive or an infographic - you may describe or depict it by a sketching and verbally describing it rather than creating it in any tool (not more than one of your visualizations may be handled in this manner).
 
-| Title                            | Link                                                | Author          |
-| -----------                      | -----------                                         | -------------   |
-|                                  | https://github.com/Mehmet065/COV-D-19-Project       | Mehmet Altıntaş |
+| Title                                       | Link                                                | Author          |
+| -----------                                 | -----------                                         | -------------   |
+|                                             | Mehmet065/COV-D-19-Project       | Mehmet Altıntaş |
 | Covid-19's Impact on the Economy            | https://github.com/Funalf?tab=projects              | Fatma Ünal      |
-| Increased unemployment rate due to Covid-19 | https://github.com/m-merve | M. Merve Akarlar |
+| Increased unemployment rate due to Covid-19 | https://github.com/m-merve                          | M. Merve Akarlar |
 
 - , Mehmet Altıntaş
 - Covid-19's Impact on the Economy, https://github.com/Funalf?tab=projects, Fatma Ünal
