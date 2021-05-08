@@ -5,6 +5,10 @@ Overview of student projects for MIS 376 at AYBU
 
 Please see [Project's Wiki page](https://github.com/hkilter/data-visualization-project/wiki) for more information.
 
+* [Guidelines for the project](guide.md)
+* [Project list](list.md)
+
+
 ### Instructions
 
 The project is intended as an opportunity to demonstrate what you have learned in class while exploring a data intensive topic of interest to you and, if possible, to a client. While you need not identify a client, you will get more out of the exercise if you do so. The client might be someone you have worked, or currently work, for, a mentor, a friend or a relative. Alternatively, your context might be a social or political issue that you wish to learn more about and to influence. Or, perhaps your investigation might be based on public data you have found that might make a newsworthy story.
