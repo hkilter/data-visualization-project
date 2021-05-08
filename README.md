@@ -6,7 +6,7 @@ Overview of student projects for MIS 376 at AYBU
 Please see [Project's Wiki page](https://github.com/hkilter/data-visualization-project/wiki) for more information.
 
 * [Guidelines for the project](guide.md)
-* [Project list](list.md)
+* [Project list](project-list.csv)
 
 
 ### Instructions
