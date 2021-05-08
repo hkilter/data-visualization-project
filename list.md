@@ -5,6 +5,5 @@ Author. Author(s) of the project
 
 __Title__   
 The effects of the difficulty of finding jobs and internships on new graduates during the epidemic period.  
-https://github.com/Mehmet065/COV-D-19-Project  
-by https://github.com/Mehmet065  
+https://github.com/Mehmet065/COV-D-19-Project by [Mehmet Altınbaş](https://github.com/Mehmet065)
 
