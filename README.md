@@ -32,3 +32,49 @@ By the end of this project, you will learn how you can use data visualization te
 
 **Note:** If you choose to use a visualization that is more complex - say, something interactive or an infographic - you may describe or depict it by a sketching and verbally describing it rather than creating it in any tool (not more than one of your visualizations may be handled in this manner).
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+- https://github.com/Mehmet065/COV-D-19-Project
+- Fatma Ünal, Covid-19's Impact on the Economy, https://github.com/Funalf?tab=projects
+MAKBULE MERVE AKARLAR, Increased unemployment rate due to Covid-19, https://github.com/m-merve
+Ayşegül GÖKTAŞ, https://github.com/aysegulgoktas
+Ebru Çıplak, https://github.com/ebru-ciplak
+Oruçhan Kural, https://github.com/oruchankural/MIS376_Educationandcovid_covid19
+Mehmet Girgin, https://github.com/byMett
+Kemal Kağan Kural, https://github.com/kemalkagankural
+Alper Doğukan Nizamoğlu, https://github.com/Alperdn
+Ali Enes Gürbüz, https://github.com/alienesgurbuz/MIS376_unemploymentrates_covid19
+Ecem Sol, https://github.com/ecemsol/MIS376-Socioeconomic-Impact-COVID19-TR-
+Furkan SALKIN, https://github.com/furkansalkin
+Ayşegül Göktaş, https://github.com/agoktas42
+Abdulkerim Ahmet Ünal, https://github.com/kerimfrey
+Mehmet Abdullah ADBAY, http://github.com/natukbaytan
+İhsan Tarık Akkoyunlu, https://github.com/ihsanakk
+Hamza Yavuz, https://github.com/HamzaYavuz
+Ömür Nebi ERARSLAN, https://github.com/CastorTroy97
+Şeyda Nur Kılıç, https://github.com/seydanurkilic
+Alijon Fatoev, git@github.com:ALIJON2211/ALijonFaToEv.git
+ESENGÜL ERGÜN : https://github.com/Esengl
+SİNAN OLCAYTÜRKAN : https://github.com/sinanolcay
+ABDÜLKERİM GÜRER : https://github.com/abdulkerimgrr
+DUYGU UÇGUN : https://github.com/duygucgun
+MELİKE KUPEN : https:// github.com/kupen
+ALPEREN ŞENGÜL : https://github.com/rootalp
+FURKAN MERT ŞAHİN : https://github.com/Furkshn
+ERSAN ŞEN : https://github.com/ersnsn
+ALİ RAHMİ ATALAY : https://github.com/ArahmiAtalay
+BERKE AKKUŞ : https://github.com/bakkus19
+SAMİ BURAK BULUT : https://github.com/sburakbulut
+AYŞENUR BİLGİSEVERER : https://github.com/AysenurBilgiseverer
+ZEYNEP ZİLAN YILDIRIM : https://github.com/zz-yildirim
+BEDİRHAN HAZAR HASGÜL : https://github.com/hazarhasgul
+SELİN EFSA TUĞ : https://github.com/SelinEfsaTug
+ARİF ESEN : https://github.com/esenarif
+ERDEM ÖZTÜRK : https://github.com/erdemo57
+Nebi Kurtulus : https://github.com/nebikurtulus97
+ALEYNA ESER : https://github.com/Aleynaesr
+AHMET ARDA YEMEN : https://github.com/ardayemenn
+BEDİRHAN HAZAR HASGÜL : gitbuh: hazarhasgul
