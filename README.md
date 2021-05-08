@@ -37,8 +37,8 @@ By the end of this project, you will learn how you can use data visualization te
 | Header      | Title       |
 | Paragraph   | Text        |
 
-- https://github.com/Mehmet065/COV-D-19-Project
-- Fatma Ünal, Covid-19's Impact on the Economy, https://github.com/Funalf?tab=projects
+- https://github.com/Mehmet065/COV-D-19-Project, Mehmet Altıntaş
+- Covid-19's Impact on the Economy, https://github.com/Funalf?tab=projects, Fatma Ünal
 MAKBULE MERVE AKARLAR, Increased unemployment rate due to Covid-19, https://github.com/m-merve
 Ayşegül GÖKTAŞ, https://github.com/aysegulgoktas
 Ebru Çıplak, https://github.com/ebru-ciplak
