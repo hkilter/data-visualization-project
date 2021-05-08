@@ -13,13 +13,13 @@ https://github.com/Mehmet065/COV-D-19-Project
 __Covid-19's Impact on the Economy__   
 [Fatma Ünal](https://github.com/Funalf)
 
-_Description_
+The epidemic has spread by turning everything upside down in the world and its effects have caused permanent problems and solutions.
 
 _Project's link_
 
-__Increased unemployment rate due to Covid-19__
+__Increased unemployment rate due to Covid-19__  
 [M. Merve Akarlar](https://github.com/m-merve)
 
-_Description_
+The increasingly difficult living conditions and the increase in unemployment rates drag us, young people, into despair.
 
-_Project's link_
+https://github.com/m-merve/m-merve
