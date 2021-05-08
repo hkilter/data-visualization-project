@@ -33,7 +33,7 @@ By the end of this project, you will learn how you can use data visualization te
 **Note:** If you choose to use a visualization that is more complex - say, something interactive or an infographic - you may describe or depict it by a sketching and verbally describing it rather than creating it in any tool (not more than one of your visualizations may be handled in this manner).
 
 | Title       | Link        | Author |
-| ----------- | ----------- |
+| ----------- | ----------- | ------------- |
 | Header      | https://github.com/Mehmet065/COV-D-19-Project | Mehmet Altıntaş |
 | Paragraph   | Text        | |
 
