@@ -1,6 +1,6 @@
 ﻿#,Surname,First name,GitHub account,A,B,C,D,E,F,Title,Description,Link
 ,,,,,,,,,,up to 100 characters,up to 200 characters,
-1,ABO,YUSUF,,,,,,,,,,
+1,ABO,YUSUF,,,,,,,,,,https://github.com/yusufAbo886/Data-Visualization-Project.git
 2,ADBAY,MEHMET ABDULLAH,http://github.com/natukbaytan,,,,,,,Impact of Covid 19 on Tourism in Turkey,This project focuses on visualizing data on the impact of the Covid 19 outbreak on tourism in Turkey.,https://github.com/natukbaytan/Data-Visualisation-Covid19-Tourism-Impact-TR
 3,AKARLAR,MAKBULE MERVE,https://github.com/m-merve,,,,,,,Increased unemployment rate due to Covid-19,"The increasingly difficult living conditions and the increase in unemployment rates drag us, young people, into despair.",https://github.com/m-merve/m-merve
 4,AKKOYUNLU,İHSAN TARIK,https://github.com/ihsanakk,,,,,,,,,https://github.com/ihsanakk/MIS376
@@ -11,7 +11,7 @@
 9,AYDIN,MÜCAHİT,,,,,,,,,,
 10,BAŞYİĞİT,KADİR,,,,,,,,,,
 11,BİLGİSEVERER,AYŞENUR,https://github.com/AysenurBilgiseverer,,,,,,,,,
-12,BOZKURT,TUANNA,,,,,,,,,,
+12,BOZKURT,TUANNA,https://github.com/TuannaBozkurt,,,,,,,,,
 13,BULUT,SAMİ BURAK,https://github.com/sburakbulut,,,,,,,,,
 14,ÇIPLAK,EBRU,https://github.com/ebru-ciplak,,,,,,,,,
 15,ÇIRAKOĞLU,KORKUT,,,,,,,,,,
@@ -27,20 +27,20 @@
 25,GÖKTAŞ,AYŞEGÜL,https://github.com/aysegulgoktas,,,,,,,,,https://github.com/agoktas42
 26,GÜRBÜZ,ALİ ENES,,,,,,,,,,https://github.com/alienesgurbuz/MIS376_unemploymentrates_covid19
 27,GÜRER,ABDÜLKERİM,https://github.com/abdulkerimgrr,,,,,,,,,
-28,HASGÜL,BEDİRHAN HAZAR,https://github.com/hazarhasgul,,,,,,,Covid 19 Effect on Mobility Decrease in Turkey, This project aims to analyze the decrease in mobility to certain places such as parks workplace and transportation during the Covid 19 period. , https://github.com/hazarhasgul/Covid-19-Effect-on-Mobility-Decrease-in-Turkey
-29,KAHRAMAN,FURKAN,,,,,,,,,,
+28,HASGÜL,BEDİRHAN HAZAR,https://github.com/hazarhasgul,,,,,,,Covid 19 Effect on Mobility Decrease in Turkey, This project aims to analyze the decrease in mobility to certain places such as parks workplace and transportation during the Covid 19 period. ,https://github.com/hazarhasgul/Covid-19-Effect-on-Mobility-Decrease-in-Turkey
+29,KAHRAMAN,FURKAN,,,,,,,,,,https://github.com/kahramanfurkan/MIS-376-DATA-VISUALISATION-PROJECT
 30,KAHRAMANTÜRK,MERT,,,,,,,,,,
-31,KAVALCI,SİMGE,,,,,,,,,,
-32,KILIÇ,ABDÜSSAMED,,,,,,,,,,
+31,KAVALCI,SİMGE,,,,,,,,,,https://github.com/Symbolll/MIS-376-Data-Visualization-Project./tree/main
+32,KILIÇ,ABDÜSSAMED,,,,,,,,,with Yusuf Abo,https://github.com/abdussamed-kilic/The-impact-of-Covid-19-on-education-by-region
 33,KILIÇ,ŞEYDA NUR,https://github.com/seydanurkilic,,,,,,,,,
 34,KILIÇARSLAN,SAMET,,,,,,,,,,
-35,KÖÇER,MEHMET,,,,,,,,,,
-36,KOK,MUHAMMED,,,,,,,,,,
+35,KÖÇER,MEHMET,,,,,,,,,,https://github.com/mehmetkocer/MIS376-data-visualization
+36,KOK,MUHAMMED,,,,,,,,,,https://github.com/muhammedkk0/MIS376-Data_Visualization.git
 37,KUPEN,MELİKE,https:// github.com/kupen,,,,,,,,,
 38,KURAL,KEMAL KAĞAN,https://github.com/kemalkagankural,,,,,,,The effect of the increase in the numbers of the corona virus on the Government Response Stringency index rate.,I will compare the number of cases from the day the corona virus started to spread until the end of April and the measures taken by the states and the level of these measures.,https://github.com/kemalkagankural/Government-Response-in-COVID19
 39,KURAL,ORUÇ HAN,,,,,,,,,,https://github.com/oruchankural/MIS376_Educationandcovid_covid19
 40,KURT,ASLI,,,,,,,,,,
-41,KURT,AYSUN,,,,,,,,,,
+41,KURT,AYSUN,,,,,,,,,,https://github.com/AysunKurt
 42,Kurtulus,Nebi,https://github.com/nebikurtulus97,,,,,,,The Effect of COVID-19 on Global Economies.,In this project  I will work on the decreasing GDP rates of countries due to COVID-19.,https://github.com/nebikurtulus97/-MIS-376-Effect-of-COVID-19-on-countries-GDP
 43,KURTULUŞ,MUHAMMED ALİ,,,,,,,,,,
 44,NİZAMOĞLU,ALPER DOĞUKAN,https://github.com/Alperdn,,,,,,,,,
@@ -56,7 +56,7 @@
 54,SOL,ECEM,,,,,,,,,,https://github.com/ecemsol/MIS376-Socioeconomic-Impact-COVID19-TR-
 55,SUHEYB FARAH GINDHE,SUHEYB FARAH GINDHE,,,,,,,,,,
 56,TOKTAY,GAMZENUR,https://github.com/gamzenur12,,,,,,,,,
-57,TONBUL,AYTEN,,,,,,,,,,
+57,TONBUL,AYTEN,,,,,,,,,,https://github.com/aytentnbl/datavisualization/blob/main/Data%20Visualization%20Project.docx
 58,TUĞ,SELİN EFSA,https://github.com/SelinEfsaTug,,,,,,,Covid-19's Impact On Airport Traffic, In this project analyzes the Airport traffic density and I think that the traffic rate is really heavy because of the pandemic. ,https://github.com/SelinEfsaTug/MIS376--Covid_Impact_On_Airport_Traffic
 59,UÇGUN,DUYGU,https://github.com/duygucgun,,,,,,,,,
 60,ÜNAL,ABDULKERİM AHMET,https://github.com/kerimfrey,,,,,,,,,
@@ -65,7 +65,7 @@
 63,UWEJAN,SADDAM,,,,,,,,,,
 64,YADİGAR,KADİR,,,,,,,,,,
 65,YAMAN,BERKE CAN,https://github.com/berkecanyaman,,,,,,,TRAFFIC & POPULATION DENSITY AND ITS USE FOR DISTRIBUTION OF COVID-19: USING TURKISH DATA,I will compare the number of cases the covid-19 the traffic and population density.,https://github.com/berkecanyaman/MIS376
-66,YAMAN,GAMZE,,,,,,,,,,
+66,YAMAN,GAMZE,https://github.com/GamzeYaman,,,,,,,,,
 67,YAVUZ,HAMZA,https://github.com/HamzaYavuz,,,,,,,,,
 68,YEMEN,AHMET ARDA,https://github.com/ardayemenn,,,,,,,,,
 69,YILDIRIM,ZEYNEP ZİLAN,https://github.com/zz-yildirim,,,,,,,The increase in the use of covid-19 pandemic process online shopping sites,I evaluated the change on e-commerce sales on amazon.com during the Covid-19 period ,https://github.com/zz-yildirim/The-increase-in-the-use-of-covid-19-pandemic-process-online-shopping-sites
