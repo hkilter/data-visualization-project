@@ -5,6 +5,7 @@ Overview of student projects for MIS 376 at AYBU
 
 * [Project list](project-list.csv)
 
+Deadline for delivering the project: **23:59 on June 18, 2021**
 
 ### Instructions
 
