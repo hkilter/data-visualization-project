@@ -1,6 +1,7 @@
 **Key**  
-[Project]() *and* Author  
-Description *and* Video clip  
+Project  
+Description  
+Author *and* Video clip
 
 <hr>
 
