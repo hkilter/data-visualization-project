@@ -3,9 +3,11 @@ Overview of student projects for MIS 376 at AYBU
 
 **Project Theme:** COVID-19 (or the virus, SARS-CoV-2)
 
-* [Project list](project-list.csv)
+**Update** June 19, 2021: We are working on your projects in the project list, results will be published ASAP. Thank you for your interest.
 
-Deadline for delivering the project: **23:59 on June 18, 2021**
+<!--* [Project list](project-list.csv) **UPDATING!**-->
+
+<!--Deadline for delivering the project: **23:59 on June 18, 2021**-->
 
 ### Instructions
 
